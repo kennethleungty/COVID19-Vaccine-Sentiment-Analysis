@@ -17,8 +17,10 @@ While the vaccine has offered renewed hope in the fight against COVID-19, it has
   3. Sentiment Analysis with NLTK Vader  
   4. Sentiment Analysis with TextBlob  
   5. Sentiment Analysis with Stanza  
-  6. Insights from Sentiment Analyses  
-  7. Compound Sentiment with Ensemble Method  
+  6. Sentiment Analysis with FlairNLP  
+  7. Sentiment Analysis with Stanford CoreNLP
+  8. Insights from Sentiment Analyses (Comparison of Results)  
+  9. Compound Sentiment with Ensemble Method (Average Scoring and Max Voting)
   
 - For the full write-up, do check out the Medium article for this project: __
 
