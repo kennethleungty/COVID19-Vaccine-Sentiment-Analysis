@@ -1,4 +1,4 @@
-# COVID19-Vaccine-Sentiment-Analysis
+# COVID-19 Vaccine - What's the Public Sentiment?
 Sentiment Analysis of COVID-19 Vaccine-related Twitter Data
 
 Link to Medium article: ____
