@@ -1,7 +1,7 @@
 # COVID-19 Vaccine - What's the Public Sentiment?
 Sentiment Analysis of COVID-19 Vaccine-related Twitter Data
 
-Link to Medium article: ____
+Link to Medium article: https://towardsdatascience.com/covid-19-vaccine-whats-the-public-sentiment-7149c9b42b99
 
 ### Introduction and Motivation
 The COVID-19 pandemic has presented itself as one of the gravest global threats, and is still very much an ongoing menace.   
@@ -22,6 +22,6 @@ While the vaccine has offered renewed hope in the fight against COVID-19, it has
   8. Insights from Sentiment Analyses (Comparison of Results)  
   9. Compound Sentiment with Ensemble Method (Average Scoring and Max Voting)
   
-- For the full write-up, do check out the Medium article for this project: __
+- For the full write-up, do check out the Medium article for this project: https://towardsdatascience.com/covid-19-vaccine-whats-the-public-sentiment-7149c9b42b99
 
 
