@@ -1,3 +1,6 @@
+# Omit .env file (storing access codes)
+*.env
+
 # Omit Images
 *.png
 *.jpg
